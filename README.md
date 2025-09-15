@@ -1,4 +1,4 @@
 # dmdv
-Database Management &amp; Data Visualisation
+Database Management and Data Visualisation
 
-Test repository for my Uni class
+Test repository for my Uni classes
